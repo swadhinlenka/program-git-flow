@@ -1,3 +1,6 @@
+/*
+	This is a hello world simple application
+*/
 public class Main{
 	public static void main(String... args){
 		
